@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Binara93Lokuliyanage
 - ✨ I'm a Fullstack developer
-- 🌱 I'm a expert in Angular and PHP
+- 🌱 I'm an expert in Angular and PHP
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Laravel framework
 - 💞️ I’m looking to collaborate on anything I am good at
